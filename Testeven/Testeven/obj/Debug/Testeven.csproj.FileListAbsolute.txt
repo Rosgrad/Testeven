@@ -1,0 +1,8 @@
+D:\YandexDisk\Testeven\Testeven\bin\Debug\Testeven.exe.config
+D:\YandexDisk\Testeven\Testeven\bin\Debug\Testeven.exe
+D:\YandexDisk\Testeven\Testeven\bin\Debug\Testeven.pdb
+D:\YandexDisk\Testeven\Testeven\obj\Debug\Testeven.csproj.AssemblyReference.cache
+D:\YandexDisk\Testeven\Testeven\obj\Debug\Testeven.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\Testeven\Testeven\obj\Debug\Testeven.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Testeven\Testeven\obj\Debug\Testeven.exe
+D:\YandexDisk\Testeven\Testeven\obj\Debug\Testeven.pdb
